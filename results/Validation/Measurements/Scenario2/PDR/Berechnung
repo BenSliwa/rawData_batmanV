@@ -1,0 +1,18 @@
+Versendete Packete = Maximale Pakete/s bei 10MBit/s * Dauer der Messung
+
+PDR = (Empfangene Packete - Verlorene Packete) / (Versendete Packete) * 100
+
+1.	893pps * 70s = 62510
+	PDR = (25553-18) / (62510) = 0.408
+	
+2. 	893pps * 67s = 59831
+	PDR = (25957-2) / (59831) = 0.434
+	
+3.	893pps * 65s = 58045
+	PDR = (26268-4) / (58045) = 0.452
+	
+4. 	893pps * 67s = 59831
+	PDR = (24176-14) / (59831) = 0.404
+	
+5.	893pps * 68s = 60724
+	PDR = (24765-12) / (60724) = 0.408
